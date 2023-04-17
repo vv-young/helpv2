@@ -1,0 +1,8 @@
+Xray 1.4.2 (Xray, Penetrates Everything.) Custom (go1.16.2 linux/amd64)
+A unified platform for anti-censorship.
+2022/09/30 23:21:09 Using config from STDIN
+Failed to start: main: failed to load config files: [stdin:] > infra/conf/serial: failed to read config: stdin: > read /dev/stdin: bad file descriptor
+Xray 1.4.2 (Xray, Penetrates Everything.) Custom (go1.16.2 linux/amd64)
+A unified platform for anti-censorship.
+2022/09/30 23:21:38 [Info] infra/conf/serial: Reading config: v2.json
+2022/09/30 23:21:38 [Warning] core: Xray 1.4.2 started
